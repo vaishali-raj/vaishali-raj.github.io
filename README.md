@@ -112,7 +112,8 @@ JUL 2009 – MAY 2013
 #### Data Scientist Certification 
 ##### Dataquest.io (Australia)
 JUN 2018 – DEC 2018
-https://www.dataquest.io/profile/vaishalifogat
+
+[Certificate](https://www.dataquest.io/profile/vaishalifogat)
 
 #### Hadoop
 ##### Lynda.com (Australia)
@@ -124,6 +125,7 @@ NOV 2018 – DEC 2018
 
 #### MongoDB Certification
 MAY 2015
-https://university.mongodb.com/course_completion/2de8fa869bce4014a4820d85fd5eff08
+
+[Certificate](https://university.mongodb.com/course_completion/2de8fa869bce4014a4820d85fd5eff08)
 
 
