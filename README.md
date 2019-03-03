@@ -99,8 +99,8 @@ FEB 2019 – Enrolled
 		
 #### Data Analyst Nanodegree
 ##### Udacity (Australia)
-NOV 2017 – APR 2018	
-[Certificate](https://graduation-api.udacity.com/api/certificate/A7HW6TW7/download)
+NOV 2017 – APR 2018  	
+[Certificate](https://github.com/vaishali-raj/vaishali-raj.github.io/blob/master/document.pdf)
 
 #### Master of Business Information Systems
 ##### Monash University (Australia)
