@@ -33,15 +33,6 @@ JAN 2017 – APR 2018
 ###### Achievements
 - Automation of custom and standard reports creation using Python
 
-#### Professional Marker
-##### Pearson Group, Nunawading, Australia
-MAY 2016 – JUL 2016
-###### Responsibilities
-- Marked student responses reliably according to the national rubric for NAPLAN and UK exam papers
-Performed the data entry of allocated exam paper results
-###### Achievements
-- Delivered a high accuracy marking results with consistently positive feedback of Supervisor
-
 #### Business Analyst (Intern)
 ##### Monash University, Caulfield, Australia
 AUG 2016 – DEC 2016
@@ -50,6 +41,15 @@ AUG 2016 – DEC 2016
 - Communicated knowledge and ideas effectively and professionally to a range of stakeholders
 ###### Achievements
 - Critical analysis and identification of complex information and requirements in agile environment and a multi-cultural team
+
+#### Professional Marker
+##### Pearson Group, Nunawading, Australia
+MAY 2016 – JUL 2016
+###### Responsibilities
+- Marked student responses reliably according to the national rubric for NAPLAN and UK exam papers
+Performed the data entry of allocated exam paper results
+###### Achievements
+- Delivered a high accuracy marking results with consistently positive feedback of Supervisor
 
 #### Software Associate
 ##### Teramatrix Technologies Pvt. Ltd. 
