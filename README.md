@@ -99,11 +99,13 @@ FEB 2019 – Enrolled
 		
 #### Data Analyst Nanodegree
 ##### Udacity (Australia)
-NOV 2017 – APR 2018		
+NOV 2017 – APR 2018	
+[Certificate](https://graduation-api.udacity.com/api/certificate/A7HW6TW7/download)
 
 #### Master of Business Information Systems
 ##### Monash University (Australia)
-FEB 2015 – DEC 2016
+FEB 2015 – DEC 2016  
+[Certificate](https://github.com/vaishali-raj/vaishali-raj.github.io/blob/master/VR-Monash-Transcript-1.png)
 
 #### Bachelor of Computer Science
 ##### BMIT (India)
@@ -111,8 +113,7 @@ JUL 2009 – MAY 2013
 
 #### Data Scientist Certification 
 ##### Dataquest.io (Australia)
-JUN 2018 – DEC 2018
-
+JUN 2018 – DEC 2018  
 [Certificate](https://www.dataquest.io/profile/vaishalifogat)
 
 #### Hadoop
@@ -124,8 +125,7 @@ NOV 2018 – DEC 2018
 NOV 2018 – DEC 2018
 
 #### MongoDB Certification
-MAY 2015
-
+MAY 2015  
 [Certificate](https://university.mongodb.com/course_completion/2de8fa869bce4014a4820d85fd5eff08)
 
 
